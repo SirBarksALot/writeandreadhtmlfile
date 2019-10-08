@@ -1,6 +1,4 @@
 from html5print import HTMLBeautifier
-import sys
-import io
 
 WORKING_PATH = 'D:\Git\writetofile/'
 
