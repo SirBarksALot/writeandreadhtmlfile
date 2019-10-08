@@ -1,6 +1,6 @@
 from html5print import HTMLBeautifier
 
-WORKING_PATH = 'D:\Git\writetofile/'
+WORKING_PATH = '/home/filiplez18/writeandreadhtmlfile/'
 
 
 def operation_on_file(*args):
